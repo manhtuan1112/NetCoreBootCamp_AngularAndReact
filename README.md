@@ -19,13 +19,13 @@ Back End :
 6. Login to Admin page via link:   localhost:5000/admin
 7. Initial Account:  duongtuan1211@gmail.com  password: Admin@123
 
-Front End : 
-Open The React Project in "onlineshop_app" folder 
-run npm install in the cmd 
-run npm start 
+Front End : <br>
+1.Open The React Project in "onlineshop_app" folder <br>
+2.run npm install in the cmd <br>
+3.run npm start <br>
 
 
-If you have any question please either chat or email me 
+Please Do not hesitate to contact to me if any issues occur
 
 Cheers, 
 Duong Manh Tuan
