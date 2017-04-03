@@ -3,11 +3,11 @@
 Follow these instructions step by step from Frontend to backend 
 
 Database 
-1. Open Folder Database 
-2. Generate Script  with SQL Server Management Studio : 
-a. Open New Query
-b. Copy and paste into the opened window
-c. End Execute File 
+1. Open Folder Database <br>
+2. Generate Script  with SQL Server Management Studio : <br>
+a. Open New Query<br>
+b. Copy and paste into the opened window<br>
+c. End Execute File <br>
 
 Back End : 
 1. Open Folder Backend 
